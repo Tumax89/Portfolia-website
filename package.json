@@ -10,5 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.14.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tumax89/Portfolia-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tumax89/Portfolia-website/issues"
+  },
+  "homepage": "https://github.com/Tumax89/Portfolia-website#readme"
 }
